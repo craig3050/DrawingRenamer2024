@@ -19,7 +19,7 @@ def extract_bottom_right_text(pdf_path):
 
 
 def main():
-    pdf_path = 'Test2.pdf'
+    pdf_path = 'Test 2.pdf'
     extract_bottom_right_text(pdf_path)
 
 if __name__ == "__main__":
